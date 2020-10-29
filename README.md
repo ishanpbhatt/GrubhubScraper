@@ -1,2 +1,2 @@
 # GrubhubScraper
-A scraper I made to conduct detailed analytics on GrubHub orders for my parent's restaurant.
+An email scraper I made to conduct online ordering analytics for restaurants.
